@@ -1,2 +1,2 @@
 # Excel-Sheet-Filters
-Javascript tool to import and filter excel sheets
+Vuetify based tool to import and filter excel sheets
